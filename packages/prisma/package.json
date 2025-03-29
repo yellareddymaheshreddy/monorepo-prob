@@ -6,6 +6,7 @@
     "./client": "./src/index.ts"
   },
   "devDependencies": {
+    "@prisma/client": "^6.5.0",
     "@repo/typescript-config": "workspace:*"
   },
   "keywords": [],
@@ -13,7 +14,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@prisma/client": "6.5.0",
     "prisma": "^6.5.0"
   }
 }
